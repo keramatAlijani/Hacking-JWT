@@ -7,7 +7,7 @@ This code is for testing following technique on a JWT to bypass authentication a
 
 # Screenshots
 
-![Sublist3r](https://pasteboard.co/IVFsalH.png "Sublist3r in action")
+![Hacking-JWT](https://i.ibb.co/7KDCSzb/1.png "Hacking-JWT in action")
 
 ## Installation
 
