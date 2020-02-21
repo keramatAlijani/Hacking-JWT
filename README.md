@@ -41,5 +41,8 @@ sudo pip install -r requirements.txt
 
 Hacking-JWT is licensed under the GNU GPL license. take a look at the [LICENSE](https://github.com/keramatAlijani/Hacking-JWT/blob/master/LICENSE) for more information.
 
+## Thanks
+Special Thanks to the Pentesterlab website for its great exercises that helped me in improving the tool.
+
 ## Version
 **Current version is 1.0**
