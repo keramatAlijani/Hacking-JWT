@@ -1,5 +1,5 @@
 # Hacking-JWT
-This code is for testing following technique on a JWT to bypass authentication and authorization:
+This code is for testing the following techniques on a JWT to bypass authentication and authorization:
 
 * Testing none technique
 * Testing HMAC instead of RSA
@@ -36,3 +36,10 @@ c:\python27\python.exe -m pip install -r requirements.txt
 ```
 sudo pip install -r requirements.txt
 ```
+
+## License
+
+Hacking-JWT is licensed under the GNU GPL license. take a look at the [LICENSE](https://github.com/keramatAlijani/Hacking-JWT/blob/master/LICENSE) for more information.
+
+## Version
+**Current version is 1.0**
