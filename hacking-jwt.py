@@ -100,7 +100,7 @@ def Checking_None():
 def Extract_Public_Key():
     url = raw_input('Please Enter Domain Address(without https ot http): ')
     url = url.replace('https://', '')
-    url = url.replace(''http://', '')
+    url = url.replace('http://', '')
     url = url.replace('/', '')
     print 'Extracting public key ..'
     os.system('timeout 5 openssl s_client -connect ' + url
