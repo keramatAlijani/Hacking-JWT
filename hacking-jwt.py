@@ -42,7 +42,6 @@ def head():
 
        *****    Hacking JWT   *****
 {3}Follow me :{3}
-password= 12346
 {1}•{3} GitHub : {0}https://github.com/keramatAlijani{3}
 {1}•{3} Linkedin: {0}https://www.linkedin.com/in/keramat-alijani-41529b126/{3}
 {1}•{3} Email: {0}Keramat.Alijani@aut.ac.ir
